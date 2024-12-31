@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "img": "img/product/product1.jpg",
+        "img_hover": "img/product/product-1.jpg",
+        "name": "iPhone 15 Pro",
+        "price": 999,
+        "old_price": 1200
+    },
+    {
+        "id": 1,
+        "img": "img/product/product2.jpg",
+        "img_hover": "img/product/product-2.jpg",
+        "name": "iPhone 15",
+        "price": 799,
+        "old_price": 850
+    },
+    {
+        "id": 2,
+        "img": "img/product/product3.jpg",
+        "img_hover": "img/product/product-3.jpg",
+        "name": "Apple Watch Series 9",
+        "price": 250,
+        "old_price": 3
+    },
+    {
+        "id": 3,
+        "img": "img/product/product4.jpg",
+        "img_hover": "img/product/product-4.jpg",
+        "name": "Samsung Galaxy S24 Ultra",
+        "price": 999,
+        "old_price": 125
+    },
+    {
+        "id": 4,
+        "img": "img/product/product5.jpg",
+        "img_hover": "img/product/product-5.jpg",
+        "name": "Apple Macbook Air M1",
+        "price": 3399,
+        "old_price": 3520
+    },
+    {
+        "id": 5,
+        "img": "img/product/product6.jpg",
+        "img_hover": "img/product/product-6.jpg",
+        "name": "Apple iPad Pro 2022 M2",
+        "price": 1299,
+        "old_price": 1399
+    },
+    {
+        "id": 6,
+        "img": "img/product/product7.jpg",
+        "img_hover": "img/product/product-7.jpg",
+        "name": "Samsung Smart OLED TV",
+        "price": 5499,
+        "old_price": 5699
+    },
+    {
+        "id": 7,
+        "img": "img/product/product8.jpg",
+        "img_hover": "img/product/product-8.jpg",
+        "name": "HP Victus",
+        "price": 2499,
+        "old_price": 2699
+    },
+    {
+        "id": 8,
+        "img": "img/product/product-1.jpg",
+        "img_hover": "img/product/product1.jpg",
+        "name": "iPhone 15 Pro",
+        "price": 999
+    },
+    {
+        "id": 9,
+        "img": "img/product/product-2.jpg",
+        "img_hover": "img/product/product2.jpg",
+        "name": "iPhone 15",
+        "price": 255
+    },
+    {
+        "id": 10,
+        "img": "img/product/product-3.jpg",
+        "img_hover": "img/product/product3.jpg",
+        "name": "Apple Watch Series 9",
+        "price": 999
+    },
+    {
+        "id": 11,
+        "img": "img/product/product-4.jpg",
+        "img_hover": "img/product/product4.jpg",
+        "name": "Samsung Galaxy S24 Ultra",
+        "price": 3599
+    },
+    {
+        "id": 12,
+        "img": "img/product/product-5.jpg",
+        "img_hover": "img/product/product5.jpg",
+        "name": "Apple Macbook Air M1",
+        "price": 1299
+    },
+    {
+        "id": 13,
+        "img": "img/product/product-6.jpg",
+        "img_hover": "img/product/product6.jpg",
+        "name": "Apple iPad Pro 2022 M2",
+        "price": 5699
+    },
+    {
+        "id": 14,
+        "img": "img/product/product-7.jpg",
+        "img_hover": "img/product/product7.jpg",
+        "name": "Samsung Smart OLED TV",
+        "price": 180
+    },
+    {
+        "id": 15,
+        "img": "img/product/product-8.jpg",
+        "img_hover": "img/product/product8.jpg",
+        "name": "HP Victus",
+        "price": 60
+    }
+]
